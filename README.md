@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://croct.com">
-        <img src="https://github.com/lhgms/Light_Teste/blob/41b082d3fbbda1dd7856d95f20ea489577ddb78f/Cover_light.png" width="830"/>
+        <img src="https://github.com/lhgms/Light_Teste/blob/19039b01dec5f2a83ad0a3646c486b7834e6c5a1/Cover_light_Teste4.png" width="830"/>
         <h3 align="center">Admin</h3>
     </a>
 </p>
